@@ -2,6 +2,10 @@
 
 A React-based implementation of the classic Rock Paper Scissors game, demonstrating proficiency with multiple CSS styling approaches in React applications.
 
+## Live Demo
+
+[Play the game here](https://rock-paper-scissors-peach-mu.vercel.app)
+
 ## Features
 
 - Interactive gameplay against a computer opponent
