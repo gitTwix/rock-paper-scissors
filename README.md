@@ -4,7 +4,7 @@ A React-based implementation of the classic Rock Paper Scissors game, demonstrat
 
 ## Live Demo
 
-[Play the game here](https://rock-paper-scissors-peach-mu.vercel.app)
+[Play the game here](https://rock-paper-scissors-git-main-gittwixs-projects.vercel.app)
 
 ## Features
 
